@@ -7,4 +7,5 @@
 >[active record associations](http://guides.rubyonrails.org/association_basics.html)
 * belongs_to
 * has_many
+
 >rake -T [all-rails-db-rake-tasks-and-what-they-do](http://jacopretorius.net/2014/02/all-rails-db-rake-tasks-and-what-they-do.html) **r**ails m**ake**
