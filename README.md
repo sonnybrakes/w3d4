@@ -1,6 +1,6 @@
 # Active Record Associations
 
->active record is an object relational mapper (orm)
+>active record is an [object relational mapper](https://en.wikipedia.org/wiki/Object-relational_mapping) (ORM)
 
 >active record is the object relation mapper provided by Rails
 
